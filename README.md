@@ -1,8 +1,5 @@
 # matrix-calculator
 
-#### Description
----
-An `npm` package for matrix computations.
 
 ##### Install
 ---
