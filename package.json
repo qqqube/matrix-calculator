@@ -1,0 +1,25 @@
+{
+  "name": "@qqqube/matrix-calculator",
+  "version": "2.0.0",
+  "description": "A Matrix Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqqube/matrix-calculator.git"
+  },
+  "keywords": [
+    "matrix"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qqqube/matrix-calculator/issues"
+  },
+  "homepage": "https://github.com/qqqube/matrix-calculator#readme",
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  }
+}
