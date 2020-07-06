@@ -1,6 +1,5 @@
 # matrix-calculator
 
-<br/><br/>
 
 #### Install
 ---
