@@ -1,11 +1,11 @@
 # matrix-calculator
 
 
-##### Install
+#### Install
 ---
 `npm install @qqqube/matrix-calculator`
 
-##### Documentation
+#### Documentation
 ---
 `dotProduct`
 >> Input: 1-D array, 1-D array
